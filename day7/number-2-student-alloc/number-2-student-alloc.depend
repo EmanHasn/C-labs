@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702895038 source:d:\lab c programming\day7\number-2-student-alloc\main.c
+	<stdio.h>
+	<stdlib.h>
+
